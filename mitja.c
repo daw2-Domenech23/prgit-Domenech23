@@ -8,14 +8,14 @@ int main() {
 	char consulta='s';
 	
 	while(consulta=='s') {
-		printf("Dòna la següent dada: ");
+		printf("Domenech23 Dòna la següent dada: ");
 		scanf("%f",&nou_valor);
 		suma=suma+nou_valor;
 		numero_repeticions=numero_repeticions+1;
-		printf("Vols continuar (s/n): ");
+		printf("Domenech23 Vols continuar (s/n): ");
 		scanf(" %c",&consulta); 
 	}
 	mitja=suma/numero_repeticions;
-	printf("La mitja és: %.2f\n",mitja);	
+	printf("Domenech23 La mitja és: %.2f\n",mitja);	
 	return 0;
 }
