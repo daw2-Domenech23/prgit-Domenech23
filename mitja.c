@@ -1,9 +1,9 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 	float suma=0;
 	float mitja;
-	float nou_valor;
+	float nou_valor=0.0;
 	int numero_repeticions=0;
 	char consulta='s';
 	
